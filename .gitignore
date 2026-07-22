@@ -1,0 +1,15 @@
+# Notebook artifacts
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated notebook outputs
+bahria_university_headings.csv
+new1.csv
